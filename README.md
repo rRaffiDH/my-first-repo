@@ -5,3 +5,5 @@ NPM : 2306203690
 Kelas : PBP E
 
 Hobi : Main Game
+
+Jurusan : Sistem Informasi
